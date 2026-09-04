@@ -6,9 +6,12 @@ Based in Lagos. Most production code is private; the public work here distills r
 
 ## Open source
 
-- [Launch Triage](https://github.com/realmikeoladapo/launch-triage) — zero-dependency production-readiness triage for fast-built web and mobile codebases. It reports evidence-backed findings, calibrates severity against repository context, and is built to avoid noisy false criticals.
+- [Launch Triage](https://github.com/realmikeoladapo/launch-triage) — zero-dependency production-readiness triage for fast-built web and mobile codebases. Version 1.2.2 is available through npm and a pinned GitHub Action. It reports evidence-backed findings, calibrates severity against repository context, and is built to avoid noisy false criticals.
 
 Current contribution focus: TypeScript and React, testing, accessibility, payment reliability, multi-tenant data controls, privacy, and production tooling.
+
+[Read why false criticals destroy scanner trust](https://github.com/realmikeoladapo/launch-triage/blob/main/docs/why-false-criticals-destroy-trust.md) ·
+[Join the ten-repository field test](https://github.com/realmikeoladapo/launch-triage/issues/19)
 
 ## Selected production work
 
